@@ -1,4 +1,4 @@
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cdlpmfu9g70s73ce0nf0&custom_title=jparra%20%40%20Peersyst%20Technology&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=00779A&text_color=444&icon_color=004450&ring_color=9fbbd6&bg_color=ffffff00&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F54996852%3Fv%3D4)](https://pullpo.io/products/devcard)
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cdlpmfu9g70s73ce0nf0&custom_title=jparra%20%40%20Peersyst%20Technology&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=00779A&text_color=444&icon_color=004450&ring_color=9fbbd6&bg_color=ffffff00&image_url=https%3A%2F%2Fcdn-images.imagevenue.com%2F46%2F26%2Ff4%2FME16MJN1_o.png)](https://pullpo.io/products/devcard)
 <!--
 **JordiParraCrespo/JordiParraCrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
